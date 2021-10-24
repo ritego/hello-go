@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hello Go
 
 The full source code for this tutorial is available at [Hello Go](https://github.com/ritego/hello-go). 
@@ -209,19 +208,4 @@ You can visit [localhost:7777](localhost:7777) on your browser to see the `Hello
 The full source code for this tutorial is available at [Hello Go](github.com/ritego/hello-go). You can fork and extend the program with additional features:
 - Console log `Hello World` in multiple languages
 - Add a different route for each language. e.g `/`, `/yoruba`, `/hausa`, `igbo`
-=======
-# RiteGo - Boilerplate
 
-    The full source code for this tutorial is available at [Boilerplate](https//github.com/ritego/boilerplate). 
-
-## Introduction
-In this article, we would learn how to say `Hello World` with Go
-
-More specifically, we would:
-- Write a program that console log `Hello World`
-
-
-## Conclusion
-The full source code for this tutorial is available at [Boilerplate](https://github.com/ritego/boilerplate). You can fork and extend the program with additional features such as:
-- Say `Hello World` in another language like [Yoruba](https://www.google.com/search?channel=crow5&client=firefox-b-d&q=hello+world+in+yoruba).
->>>>>>> df0c964da2b73b8fa2b46fb7357e4fb1e33e782c
